@@ -32,7 +32,8 @@ mv ~/.local/share/nvim ~/.local/share/nvim.bak
 #### Clone the repository
 
 ```shell
-git clone https://github.com/Tanishkshk1/Neovim
+git clone https://github.com/Tanishkshk1/nvim
+mv nvim ~/.config/
 nvim +PackerSync
 ```
 
