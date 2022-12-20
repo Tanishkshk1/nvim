@@ -1,3 +1,3 @@
 require("tanish")
 require("lualine-config")
-require("dashboard-config")
+--require("dashboard-config")
