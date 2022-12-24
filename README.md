@@ -1,5 +1,4 @@
 # Neovim
-<<<<<<< HEAD
 my build of neovim
 =======
 
@@ -72,4 +71,3 @@ Sincere appreciation to the following repositories, plugin authors and the entir
 [![Lua](https://img.shields.io/badge/Made%20with%20Lua-blue.svg?style=for-the-badge&logo=lua)](https://lua.org)
 
 </div>
->>>>>>> 55a87be (new)
